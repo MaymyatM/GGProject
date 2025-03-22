@@ -1,4 +1,2 @@
-# ProjectGG
-for the project for group2
-
-#in order to deploy GGproject file in streamlit, we need to make sure all the prerequisite requirements are altogeether in requirements.txt file. only after those are satisfied, we will be able to run the project.
+This is a group project for Simbolo's AI Level 1 Class. 
+The theme of this project is educational and we aimed to resolve grammar and spelling checker targeting upto c1 level ESL students. We aim to expand language to Myanmar language. 
